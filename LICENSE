@@ -1,201 +1,456 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+𝐇𝐨𝐥𝐚! 𝐒𝐨𝐲 Megumi_fushiguro (𝐒𝐮𝐛-𝐁𝐨𝐭)
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+» ˚୨•(=^●ω●^=)• ⊹ `Economía` ⊹
+> ✐ Comandos de *Economía* para ganar dinero y divertirte con tus amigos.
 
-   1. Definitions.
+✧ `#balance` `#bal` `#coins` _<usuario>_
+> Ver cuantos coins tienes.
+✧ `#coinflip` `#flip` `#cf` _[cantidad] <cara/cruz>_
+> Apostar coins en un cara o cruz.
+✧ `#crime`
+> Ganar coins rapido.
+✧ `#daily`
+> Reclamar tu recompensa diaria.
+✧ `#deposit` `#dep` `#depositar` `#d` _[cantidad] | all_
+> Depositar tus coins en el banco.
+✧ `#economyboard` `#eboard` `#baltop` _<pagina>_
+> Ver el ranking de usuarios con más coins.
+✧ `#economyinfo` `#einfo`
+> Ver tu información de economía en el grupo.
+✧ `#givecoins` `#pay` `#coinsgive` _[usuario] [cantidad]_
+> Dar coins a un usuario.
+✧ `#roulette` `#rt` _[red/black] [cantidad]_
+> Apostar coins en una ruleta.
+✧ `#slut`
+> Ganar coins prostituyéndote.
+✧ `#steal` `#robar` `#rob` _[@mencion]_
+> Intentar robar coins a un usuario.
+✧ `#withdraw` `#with` `#retirar` _[cantidad] | all_
+> Retirar tus coins en el banco.
+✧ `#work` `#w`
+> Ganar coins trabajando.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+» ˚୨•(=^●ω●^=)• ⊹ `Stickers` ⊹
+> ✐ Comandos de *Stickers* para crear y gestionar stickers.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+✧ `#delpack` _[nombre del paquete]_
+> Elimina un paquete de stickers.
+✧ `#delstickermeta` `#delmeta`
+> Restablecer el pack y autor por defecto para tus stickers.
+✧ `#getpack` `#stickerpack` `#pack` _[nombre del paquete]_
+> Descarga un paquete de stickers.
+✧ `#newpack` `#newstickerpack` _[nombre del paquete]_
+> Crea un nuevo paquete de stickers.
+✧ `#packfavourite` `#setpackfav` `#packfav` _[nombre del paquete]_
+> Establece un paquete de stickers como favorito.
+✧ `#packunfavourite` `#unsetpackfav` `#packunfav` _[nombre del paquete]_
+> Elimina un paquete de stickers de favoritos.
+✧ `#setpackprivate` `#setpackpriv` `#packprivate` _[nombre del paquete]_
+> Establecer un paquete de stickers como privado.
+✧ `#setpackpublic` `#setpackpub` `#packpublic` _[nombre del paquete]_
+> Establecer un paquete de stickers como público.
+✧ `#setstickermeta` `#setmeta` _[autor] | [pack]_
+> Establecer el pack y autor por defecto para tus stickers.
+✧ `#setstickerpackdesc` `#setpackdesc` `#packdesc` _[nombre del paquete] | [descripción]_
+> Establece la descripción de un paquete de stickers.
+✧ `#sticker` `#s` `#stickers` _{citar una imagen/video}_
+> Convertir una imagen/video a sticker
+✧ `#stickeradd` `#addsticker` _[nombre del paquete]_
+> Agrega un sticker a un paquete de stickers.
+✧ `#stickerdel` `#delsticker` _[nombre del paquete]_
+> Elimina un sticker de un paquete de stickers.
+✧ `#stickerpacks` `#packlist`
+> Lista de tus paquetes de stickers.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+» ˚୨•(=^●ω●^=)• ⊹ `Gacha` ⊹
+> ✐ Comandos de *Gacha* para reclamar y intercambiar personajes.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+✧ `#buycharacter` `#buychar` `#buyc` _[nombre]_
+> Comprar un personaje en venta.
+✧ `#charimage` `#waifuimage` `#cimage` `#wimage` _[nombre]_
+> Ver una imagen aleatoria de un personaje.
+✧ `#charinfo` `#winfo` `#waifuinfo` _[nombre]_
+> Ver información de un personaje.
+✧ `#charvideo` `#waifuvideo` `#cvideo` `#wvideo` _[nombre]_
+> Ver un video aleatorio de un personaje.
+✧ `#claim` `#c` `#reclamar` _{citar personaje}_
+> Reclamar un personaje.
+✧ `#delclaimmsg`
+> Restablecer el mensaje al reclamar un personaje
+✧ `#deletewaifu` `#delwaifu` `#delchar` _[nombre]_
+> Eliminar un personaje reclamado.
+✧ `#favoritetop` `#favtop`
+> Ver el top de personajes favoritos.
+✧ `#gachainfo` `#ginfo` `#infogacha`
+> Ver tu información de gacha.
+✧ `#giveallharem` _[@usuario]_
+> Regalar todos tus personajes a otro usuario.
+✧ `#givechar` `#givewaifu` `#regalar` _[@usuario] [nombre]_
+> Regalar un personaje a otro usuario.
+✧ `#harem` `#waifus` `#claims` _<@usuario>_
+> Ver tus personajes reclamados.
+✧ `#haremshop` `#tiendawaifus` `#wshop` _<Pagina>_
+> Ver los personajes en venta.
+✧ `#removesale` `#removerventa` _[precio] [nombre]_
+> Eliminar un personaje en venta.
+✧ `#rollwaifu` `#rw` `#roll`
+> Waifu o husbando aleatorio
+✧ `#sell` `#vender` _[precio] [nombre]_
+> Poner un personaje a la venta.
+✧ `#serieinfo` `#ainfo` `#animeinfo` _[nombre]_
+> Información de un anime.
+✧ `#serielist` `#slist` `#animelist`
+> Listar series del bot
+✧ `#setclaimmsg` `#setclaim` _[mensaje]_
+> Modificar el mensaje al reclamar un personaje
+✧ `#trade` `#intercambiar` _[Tu personaje] / [Personaje 2]_
+> Intercambiar un personaje con otro usuario
+✧ `#vote` `#votar` _[nombre]_
+> Votar por un personaje para subir su valor.
+✧ `#waifusboard` `#waifustop` `#topwaifus` `#wtop` _[número]_
+> Ver el top de personajes con mayor valor.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+» ˚୨•(=^●ω●^=)• ⊹ `Descargas` ⊹
+> ✐ Comandos de *Descargas* para descargar archivos de varias fuentes.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+✧ `#facebook` `#fb` _[Link]_
+> Descargar un video de Facebook
+✧ `#hitomi` `#hitomila` _[link|codigo]_
+> Descargar un galería o video de hitomi
+✧ `#mediafire` `#mf`
+> Descargar un archivo de MediaFire
+✧ `#mp4` `#ytmp4` `#mp4doc` _[Cancion]_
+> Descargar un video de YouTube
+✧ `#nhentai` `#nh` `#nhdl` _[id]_
+> Descarga un doujin de nhentai
+✧ `#pinterest` `#pin` _[busqueda]_
+> Buscar y descargar imagenes de Pinterest
+✧ `#play` `#yt` `#ytaudio` `#playaudio` _[Cancion]_
+> Descargar una cancion de YouTube como audio o documento
+✧ `#reel` `#ig` `#instagram` _[Link]_
+> Descargar un reel de Instagram
+✧ `#tiktok` `#tt`
+> Descargar un video de TikTok
+✧ `#twitter` `#x` _[Link]_
+> Descargar un video de Twitter/X
+✧ `#vermangasporno` `#vmp` _[url/id]_
+> Descargar un manga de VerMangasPorno
+✧ `#ytsearch` `#search` _[busqueda]_
+> Buscar videos de YouTube
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+» ˚୨•(=^●ω●^=)• ⊹ `Perfiles` ⊹
+> ✐ Comandos de *Perfil* para ver y configurar tu perfil.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+✧ `#allbirthdays` `#allbirths`
+> Ver todos los cumpleaños.
+✧ `#birthdays` `#cumpleaños` `#births`
+> Ver cumpleaños cercanos en el grupo.
+✧ `#delbirth` _[fecha]_
+> Borrar tu fecha de cumpleaños.
+✧ `#delgenre`
+> Eliminar tu genero.
+✧ `#divorce`
+> Divorciarte de tu pareja.
+✧ `#gp` `#group`
+> Informacion del grupo.
+✧ `#leaderboard` `#lboard` `#top` _<Paginá>_
+> Top de usuarios con más experiencia.
+✧ `#level` `#lvl` _<@Mencion>_
+> Ver tu nivel y experiencia actual.
+✧ `#marry` `#casarse` _<@Mencion>_
+> Casarte con alguien.
+✧ `#profile` _<@Mencion>_
+> Ver tu perfil.
+✧ `#setbirth` _[fecha]_
+> Establecer tu fecha de cumpleaños.
+✧ `#setdescription` `#setdesc` _[Descripcion]_
+> Establecer tu descripcion.
+✧ `#setfavourite` `#setfav` _[Personaje]_
+> Establecer tu claim favorito.
+✧ `#setgenre` _Hombre | Mujer_
+> Establecer tu genero.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+» ˚୨•(=^●ω●^=)• ⊹ `Sub-bots` ⊹
+> ✐ Comandos para registrar tu propio bot.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+✧ `#autojoin` _[enable/disable]_
+> Unirse automáticamente a grupos enviados por el dueño del bot en privado.
+✧ `#botinfo` `#infobot`
+> Obtener informacion del bot
+✧ `#join` _[Invitacion]_
+> Unir al bot a un grupo
+✧ `#leave` `#salir`
+> Salir de un grupo
+✧ `#logout`
+> Cerrar sesion del bot
+✧ `#qr` `#code`
+> Crear un Sub-Bot con un codigo QR/Code
+✧ `#qrpremium` `#codepremium`
+> Crear un Bot Premium con un codigo QR/Code
+✧ `#reload`
+> Recargar la sesion del bot
+✧ `#setbanner` `#setmenubanner`
+> Cambiar el banner del menu
+✧ `#setbotcurrency` _[nombre]_
+> Cambiar la moneda del bot
+✧ `#setbotowner` _[nombre]_
+> Cambiar el dueño del bot
+✧ `#setname` `#setbotname` _[nombre corto] / [nombre largo]_
+> Cambiar el nombre del bot
+✧ `#setpfp` `#setimage`
+> Cambiar la imagen de perfil
+✧ `#setstatus` _[estado]_
+> Cambiar el estado del bot
+✧ `#setusername` _[nombre]_
+> Cambiar el nombre de usuario
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+» ˚୨•(=^●ω●^=)• ⊹ `Útilidades` ⊹
+> ✐ Comandos de *Útilidades*
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+✧ `#bots` `#sockets`
+> Ver el numero de bots activos.
+✧ `#del` `#delete` _{citar un mensaje}_
+> Eliminar un mensaje.
+✧ `#getpic` `#pfp` _[@usuario]_
+> Ver la foto de perfil de un usuario.
+✧ `#invite` _[Invitacion]_
+> Invitar al bot a un grupo.
+✧ `#menu` `#help` `#commands` `#comandos`
+> Ver el menú de comandos.
+✧ `#ping` `#p`
+> Medir tiempo de respuesta
+✧ `#status`
+> Ver estado del bot
+✧ `#suggest` `#add` `#addanime` `#report` _[Nombre]_
+> Solicitar un anime/serie/juego o personaje faltante
+✧ `#testwelcome` `#testgoodbye`
+> Prueba el mensaje de bienvenida/despedida.
+✧ `#toimage` `#toimg` _{citar sticker}_
+> Convertir un sticker/imagen de una vista a imagen.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+» ˚୨•(=^●ω●^=)• ⊹ `Administración` ⊹
+> ✐ Comandos para administradores de grupos.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+✧ `#alerts` `#alertas` _[enable/disable]_
+> Activar/desactivar las alertas de promote/demote
+✧ `#antilink` `#antienlace` _[enable/disable]_
+> Activar/desactivar el antienlace
+✧ `#bot` _[enable/disable]_
+> Activar/desactivar al bot
+✧ `#close`
+> Cerrar el grupo para que solo los administradores puedan enviar mensajes.
+✧ `#delwarn` _<@usuario> <número de advertencia>_
+> Eliminar una advertencia de un miembro del grupo.
+✧ `#demote` _<@usuario> | {mencion}_
+> Descender a un usuario de administrador.
+✧ `#economy` `#economia` _[enable/disable]_
+> Activar/desactivar los comandos de economía
+✧ `#gacha` _[enable/disable]_
+> Activar/desactivar los comandos de GACHA
+✧ `#goodbye` `#despedida` _[enable/disable]_
+> Activar/desactivar la despedida
+✧ `#groupimage` `#groupimg` `#gpimg` `#setgroupimage`
+> Cambiar la imagen del grupo.
+✧ `#kick` _<@usuario> | {mencion}_
+> Expulsar a un usuario del grupo.
+✧ `#msgcount` `#count` `#messages` `#mensajes` _<@usuario> <dias>_
+> Obtener el conteo de mensajes y comandos de un usuario.
+✧ `#nsfw` _[enable/disable]_
+> Activar/desactivar los comandos NSFW
+✧ `#onlyadmin` `#onlyadmins` _[enable/disable]_
+> Permitir que solo los administradores puedan utilizar los comandos.
+✧ `#open`
+> Abrir el grupo para que todos los usuarios puedan enviar mensajes.
+✧ `#promote` _<@usuario> | {mencion}_
+> Ascender a un usuario a administrador.
+✧ `#setgoodbye` _[texto]_
+> Establecer un mensaje de despedida personalizado.
+✧ `#setprimary` _[@bot]_
+> Establece un bot como primario del grupo.
+✧ `#setwarnlimit` _<número de advertencias>_
+> Establecer el límite de advertencias para un grupo.
+✧ `#setwelcome` _[texto]_
+> Establecer un mensaje de bienvenida personalizado.
+✧ `#tag` `#hidetag` `#tagsay` `#tagall` _[mensaje]_
+> Envía un mensaje mencionando a todos los usuarios del grupo.
+✧ `#topcount` `#topmessages` `#topmsgcount` `#topmensajes` _<dias>_
+> Obtener el top de usuarios con más mensajes en el grupo.
+✧ `#topinactive` `#topinactivos` `#topinactiveusers` _<dias>_
+> Obtener el top de usuarios más inactivos en el grupo.
+✧ `#warn` _<@usuario> <razón>_
+> Darle una advertencia a un miembro del grupo.
+✧ `#warns` _<@usuario>_
+> Ver todas las advertencias de un miembro del grupo.
+✧ `#welcome` `#bienvenida` _[enable/disable]_
+> Activar/desactivar la bienvenida
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+» ˚୨•(=^●ω●^=)• ⊹ `NSFW` ⊹
+> ✐ Comandos *NSFW* (Contenido para adultos)
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+✧ `#anal` _<mencion>_
+> Hacer un anal
+✧ `#ass` `#poto`
+✧ `#blowjob` `#mamada` `#bj` _<mencion>_
+> Dar una mamada
+✧ `#boobjob` _<mencion>_
+> Hacer una rusa
+✧ `#cum` _<mencion>_
+> Venirse en alguien
+✧ `#cummouth` _<mencion>_
+> Acabar en la boca de alguien
+✧ `#cumshot` _<mencion>_
+> Disparar semen
+✧ `#danbooru` `#dbooru` _[Tags]_
+> Buscar imagenes en Danbooru
+✧ `#e621` _[Tags]_
+> Buscar imagenes en e621.
+✧ `#fap` `#paja` _<mencion>_
+> Hacerse una paja
+✧ `#footjob` _<mencion>_
+> Hacer una paja con los pies
+✧ `#fuck` `#coger` _<mencion>_
+> Follarte a alguien
+✧ `#gelbooru` `#gbooru` `#booru` _[Tags]_
+> Buscar imagenes en Gelbooru
+✧ `#grabboobs` _<mencion>_
+> Agarrar tetas
+✧ `#grope` _<mencion>_
+> Manosear a alguien
+✧ `#handjob` _<mencion>_
+> Hacer una paja
+✧ `#hentai`
+✧ `#lickass` _<mencion>_
+> Lamer un culo
+✧ `#lickdick` _<mencion>_
+> Lamer un pene
+✧ `#lickpussy` _<mencion>_
+> Lamer un coño
+✧ `#loli`
+✧ `#nekomimi` `#neko`
+✧ `#pussy`
+✧ `#rule34` `#r34` _[Tags]_
+> Buscar imagenes en Rule34
+✧ `#sixnine` `#69` _<mencion>_
+> Haz un 69 con alguien
+✧ `#spank` `#nalgada` _<mencion>_
+> Dar una nalgada
+✧ `#suckboobs` _<mencion>_
+> Chupar tetas
+✧ `#undress` `#encuerar` _<mencion>_
+> Desnudar a alguien
+✧ `#yuri` `#tijeras` _<mencion>_
+> Hacer tijeras.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+» ˚୨•(=^●ω●^=)• ⊹ `Anime` ⊹
+> ✐ Comandos de reacciones de anime.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+✧ `#angry` `#enojado` _<mencion>_
+> Estar enojado
+✧ `#bath` _<mencion>_
+> Bañarse
+✧ `#bite` _<mencion>_
+> Muerde a alguien
+✧ `#bleh` _<mencion>_
+> Sacar la lengua
+✧ `#blush` _<mencion>_
+> Sonrojarte
+✧ `#bored` `#aburrido` _<mencion>_
+> Estar aburrido
+✧ `#call` _<mencion>_
+> Llamar a alguien
+✧ `#clap` `#aplaudir` _<mencion>_
+> Aplaudir
+✧ `#coffee` `#cafe` _<mencion>_
+> Tomar cafe
+✧ `#cold` _<mencion>_
+> Tener frío
+✧ `#cook` _<mencion>_
+> Cocinar algo delicioso
+✧ `#cry` _<mencion>_
+> Llorar por algo o alguien
+✧ `#cuddle` _<mencion>_
+> Acurrucarse
+✧ `#dance` _<mencion>_
+> Sacate los pasitos prohíbidos
+✧ `#dramatic` `#drama` _<mencion>_
+> Drama
+✧ `#draw` _<mencion>_
+> Dibujar
+✧ `#drunk` _<mencion>_
+> Estar borracho
+✧ `#eat` `#comer` _<mencion>_
+> Comer algo delicioso
+✧ `#facepalm` _<mencion>_
+> Darte una palmada en la cara
+✧ `#gaming` _<mencion>_
+> Jugar videojuegos
+✧ `#greet` `#hi` _<mencion>_
+> Saludar a alguien
+✧ `#happy` `#feliz` _<mencion>_
+> Salta de felicidad
+✧ `#heat` _<mencion>_
+> Tener calor
+✧ `#hug` _<mencion>_
+> Dar un abrazo
+✧ `#impregnate` `#preg` `#preñar` _<mencion>_
+> Embarazar a alguien
+✧ `#jump` _<mencion>_
+> Saltar
+✧ `#kill` _<mencion>_
+> Toma tu arma y mata a alguien
+✧ `#kiss` `#muak` _<mencion>_
+> Dar un beso
+✧ `#kisscheek` `#beso` _<mencion>_
+> Beso en la mejilla
+✧ `#laugh` _<mencion>_
+> Reírte de algo o alguien
+✧ `#lewd` _<mencion>_
+> Hacer algo lascivo
+✧ `#lick` _<mencion>_
+> Lamer a alguien
+✧ `#love` `#amor` _<mencion>_
+> Sentirse enamorado
+✧ `#nope` _<mencion>_
+> Negarse a hacer algo
+✧ `#pat` _<mencion>_
+> Acaricia a alguien
+✧ `#poke` _<mencion>_
+> Picar a alguien
+✧ `#pout` _<mencion>_
+> Hacer pucheros
+✧ `#psycho` _<mencion>_
+> Hacerse el psicópata
+✧ `#punch` _<mencion>_
+> Dar un puñetazo
+✧ `#push` _<mencion>_
+> Empujar a alguien
+✧ `#run` _<mencion>_
+> Correr
+✧ `#sad` `#triste` _<mencion>_
+> Expresar tristeza
+✧ `#scared` _<mencion>_
+> Estar asustado
+✧ `#scream` _<mencion>_
+> Gritar
+✧ `#seduce` _<mencion>_
+> Seducir a alguien
+✧ `#shy` `#timido` _<mencion>_
+> Sentir timidez
+✧ `#sing` _<mencion>_
+> Cantar
+✧ `#slap` _<mencion>_
+> Dar una bofetada
+✧ `#sleep` _<mencion>_
+> Tumbarte a dormir
+✧ `#smoke` _<mencion>_
+> Fumar
+✧ `#spit` `#escupir` _<mencion>_
+> Escupir
+✧ `#step` `#pisar` _<mencion>_
+> Pisar a alguien
+✧ `#think` _<mencion>_
+> Pensar en algo
+✧ `#tickle` _<mencion>_
+> Hacer cosquillas
+✧ `#walk` _<mencion>_
+> Caminar
