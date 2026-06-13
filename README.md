@@ -503,3 +503,5 @@ package.json
 index.js
 main.js
 install
+README.md
+LICENSE
