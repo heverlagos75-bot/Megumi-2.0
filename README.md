@@ -455,3 +455,46 @@
 > Hacer cosquillas
 ✧ `#walk` _<mencion>_
 > Caminar
+
+const { default: makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
+const pino = require('pino');
+
+async function connectToWhatsApp() {
+    const { state, saveCreds } = await useMultiFileAuthState('auth_info_baileys');
+    const sock = makeWASocket({ logger: pino({ level: 'silent' }), auth: state });
+    
+    sock.ev.on('creds.update', saveCreds);
+    sock.ev.on('connection.update', (update) => {
+        const { connection } = update;
+        if (connection === 'open') console.log('¡Bot conectado!');
+    });
+}8
+connectToWhatsApp();
+index.jsconstindex.js const { default: makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
+const pino = require('pino');
+
+async function connectToWhatsApp() {
+    const { state, saveCreds } = await useMultiFileAuthState('auth_info_baileys');
+    const sock = makeWASocket({ logger: pino({ level: 'silent' }), auth: state });
+    
+    sock.ev.on('creds.update', saveCreds);
+    sock.ev.on('connection.update', (update) => {
+        const { connection } = update;
+        if (connection === 'open') console.log('¡Bot conectado!');
+    });
+}
+connectToWhatsApp();
+index.js{
+  "name": "megumi-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
