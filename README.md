@@ -578,3 +578,24 @@ package.json
     "qrcode-terminal": "latest"
   }
 }
+cd ~/Megumi-2.0
+https://github.com/heverlagos75-bot/Megumi-2.0
+cd ~
+rm -rf Megumi-2.0
+git clone https://github.com/heverlagos75-bot/Megumi-2.0
+cd Megumi-2.0
+{
+  "name": "megumi-2.0",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
+npm install
