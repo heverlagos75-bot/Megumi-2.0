@@ -564,3 +564,17 @@ index.js
 package.json
 index.js
 package.json
+{
+  "name": "megumi-2.0",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
