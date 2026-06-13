@@ -498,3 +498,8 @@ index.js{
     "qrcode-terminal": "latest"
   }
 }
+
+package.json
+index.js
+main.js
+install
