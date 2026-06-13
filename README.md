@@ -1,2 +1,457 @@
 # Megumi-2.0
-𝐇𝐨𝐥𝐚! 𝐒𝐨𝐲 Megumi _  fushiguru (𝐒𝐮𝐛-𝐁𝐨𝐭)
+𝐇𝐨𝐥𝐚! 𝐒𝐨𝐲 Megumi_fushiguro (𝐒𝐮𝐛-𝐁𝐨𝐭)
+
+» ˚୨•(=^●ω●^=)• ⊹ `Economía` ⊹
+> ✐ Comandos de *Economía* para ganar dinero y divertirte con tus amigos.
+
+✧ `#balance` `#bal` `#coins` _<usuario>_
+> Ver cuantos coins tienes.
+✧ `#coinflip` `#flip` `#cf` _[cantidad] <cara/cruz>_
+> Apostar coins en un cara o cruz.
+✧ `#crime`
+> Ganar coins rapido.
+✧ `#daily`
+> Reclamar tu recompensa diaria.
+✧ `#deposit` `#dep` `#depositar` `#d` _[cantidad] | all_
+> Depositar tus coins en el banco.
+✧ `#economyboard` `#eboard` `#baltop` _<pagina>_
+> Ver el ranking de usuarios con más coins.
+✧ `#economyinfo` `#einfo`
+> Ver tu información de economía en el grupo.
+✧ `#givecoins` `#pay` `#coinsgive` _[usuario] [cantidad]_
+> Dar coins a un usuario.
+✧ `#roulette` `#rt` _[red/black] [cantidad]_
+> Apostar coins en una ruleta.
+✧ `#slut`
+> Ganar coins prostituyéndote.
+✧ `#steal` `#robar` `#rob` _[@mencion]_
+> Intentar robar coins a un usuario.
+✧ `#withdraw` `#with` `#retirar` _[cantidad] | all_
+> Retirar tus coins en el banco.
+✧ `#work` `#w`
+> Ganar coins trabajando.
+
+» ˚୨•(=^●ω●^=)• ⊹ `Stickers` ⊹
+> ✐ Comandos de *Stickers* para crear y gestionar stickers.
+
+✧ `#delpack` _[nombre del paquete]_
+> Elimina un paquete de stickers.
+✧ `#delstickermeta` `#delmeta`
+> Restablecer el pack y autor por defecto para tus stickers.
+✧ `#getpack` `#stickerpack` `#pack` _[nombre del paquete]_
+> Descarga un paquete de stickers.
+✧ `#newpack` `#newstickerpack` _[nombre del paquete]_
+> Crea un nuevo paquete de stickers.
+✧ `#packfavourite` `#setpackfav` `#packfav` _[nombre del paquete]_
+> Establece un paquete de stickers como favorito.
+✧ `#packunfavourite` `#unsetpackfav` `#packunfav` _[nombre del paquete]_
+> Elimina un paquete de stickers de favoritos.
+✧ `#setpackprivate` `#setpackpriv` `#packprivate` _[nombre del paquete]_
+> Establecer un paquete de stickers como privado.
+✧ `#setpackpublic` `#setpackpub` `#packpublic` _[nombre del paquete]_
+> Establecer un paquete de stickers como público.
+✧ `#setstickermeta` `#setmeta` _[autor] | [pack]_
+> Establecer el pack y autor por defecto para tus stickers.
+✧ `#setstickerpackdesc` `#setpackdesc` `#packdesc` _[nombre del paquete] | [descripción]_
+> Establece la descripción de un paquete de stickers.
+✧ `#sticker` `#s` `#stickers` _{citar una imagen/video}_
+> Convertir una imagen/video a sticker
+✧ `#stickeradd` `#addsticker` _[nombre del paquete]_
+> Agrega un sticker a un paquete de stickers.
+✧ `#stickerdel` `#delsticker` _[nombre del paquete]_
+> Elimina un sticker de un paquete de stickers.
+✧ `#stickerpacks` `#packlist`
+> Lista de tus paquetes de stickers.
+
+» ˚୨•(=^●ω●^=)• ⊹ `Gacha` ⊹
+> ✐ Comandos de *Gacha* para reclamar y intercambiar personajes.
+
+✧ `#buycharacter` `#buychar` `#buyc` _[nombre]_
+> Comprar un personaje en venta.
+✧ `#charimage` `#waifuimage` `#cimage` `#wimage` _[nombre]_
+> Ver una imagen aleatoria de un personaje.
+✧ `#charinfo` `#winfo` `#waifuinfo` _[nombre]_
+> Ver información de un personaje.
+✧ `#charvideo` `#waifuvideo` `#cvideo` `#wvideo` _[nombre]_
+> Ver un video aleatorio de un personaje.
+✧ `#claim` `#c` `#reclamar` _{citar personaje}_
+> Reclamar un personaje.
+✧ `#delclaimmsg`
+> Restablecer el mensaje al reclamar un personaje
+✧ `#deletewaifu` `#delwaifu` `#delchar` _[nombre]_
+> Eliminar un personaje reclamado.
+✧ `#favoritetop` `#favtop`
+> Ver el top de personajes favoritos.
+✧ `#gachainfo` `#ginfo` `#infogacha`
+> Ver tu información de gacha.
+✧ `#giveallharem` _[@usuario]_
+> Regalar todos tus personajes a otro usuario.
+✧ `#givechar` `#givewaifu` `#regalar` _[@usuario] [nombre]_
+> Regalar un personaje a otro usuario.
+✧ `#harem` `#waifus` `#claims` _<@usuario>_
+> Ver tus personajes reclamados.
+✧ `#haremshop` `#tiendawaifus` `#wshop` _<Pagina>_
+> Ver los personajes en venta.
+✧ `#removesale` `#removerventa` _[precio] [nombre]_
+> Eliminar un personaje en venta.
+✧ `#rollwaifu` `#rw` `#roll`
+> Waifu o husbando aleatorio
+✧ `#sell` `#vender` _[precio] [nombre]_
+> Poner un personaje a la venta.
+✧ `#serieinfo` `#ainfo` `#animeinfo` _[nombre]_
+> Información de un anime.
+✧ `#serielist` `#slist` `#animelist`
+> Listar series del bot
+✧ `#setclaimmsg` `#setclaim` _[mensaje]_
+> Modificar el mensaje al reclamar un personaje
+✧ `#trade` `#intercambiar` _[Tu personaje] / [Personaje 2]_
+> Intercambiar un personaje con otro usuario
+✧ `#vote` `#votar` _[nombre]_
+> Votar por un personaje para subir su valor.
+✧ `#waifusboard` `#waifustop` `#topwaifus` `#wtop` _[número]_
+> Ver el top de personajes con mayor valor.
+
+» ˚୨•(=^●ω●^=)• ⊹ `Descargas` ⊹
+> ✐ Comandos de *Descargas* para descargar archivos de varias fuentes.
+
+✧ `#facebook` `#fb` _[Link]_
+> Descargar un video de Facebook
+✧ `#hitomi` `#hitomila` _[link|codigo]_
+> Descargar un galería o video de hitomi
+✧ `#mediafire` `#mf`
+> Descargar un archivo de MediaFire
+✧ `#mp4` `#ytmp4` `#mp4doc` _[Cancion]_
+> Descargar un video de YouTube
+✧ `#nhentai` `#nh` `#nhdl` _[id]_
+> Descarga un doujin de nhentai
+✧ `#pinterest` `#pin` _[busqueda]_
+> Buscar y descargar imagenes de Pinterest
+✧ `#play` `#yt` `#ytaudio` `#playaudio` _[Cancion]_
+> Descargar una cancion de YouTube como audio o documento
+✧ `#reel` `#ig` `#instagram` _[Link]_
+> Descargar un reel de Instagram
+✧ `#tiktok` `#tt`
+> Descargar un video de TikTok
+✧ `#twitter` `#x` _[Link]_
+> Descargar un video de Twitter/X
+✧ `#vermangasporno` `#vmp` _[url/id]_
+> Descargar un manga de VerMangasPorno
+✧ `#ytsearch` `#search` _[busqueda]_
+> Buscar videos de YouTube
+
+» ˚୨•(=^●ω●^=)• ⊹ `Perfiles` ⊹
+> ✐ Comandos de *Perfil* para ver y configurar tu perfil.
+
+✧ `#allbirthdays` `#allbirths`
+> Ver todos los cumpleaños.
+✧ `#birthdays` `#cumpleaños` `#births`
+> Ver cumpleaños cercanos en el grupo.
+✧ `#delbirth` _[fecha]_
+> Borrar tu fecha de cumpleaños.
+✧ `#delgenre`
+> Eliminar tu genero.
+✧ `#divorce`
+> Divorciarte de tu pareja.
+✧ `#gp` `#group`
+> Informacion del grupo.
+✧ `#leaderboard` `#lboard` `#top` _<Paginá>_
+> Top de usuarios con más experiencia.
+✧ `#level` `#lvl` _<@Mencion>_
+> Ver tu nivel y experiencia actual.
+✧ `#marry` `#casarse` _<@Mencion>_
+> Casarte con alguien.
+✧ `#profile` _<@Mencion>_
+> Ver tu perfil.
+✧ `#setbirth` _[fecha]_
+> Establecer tu fecha de cumpleaños.
+✧ `#setdescription` `#setdesc` _[Descripcion]_
+> Establecer tu descripcion.
+✧ `#setfavourite` `#setfav` _[Personaje]_
+> Establecer tu claim favorito.
+✧ `#setgenre` _Hombre | Mujer_
+> Establecer tu genero.
+
+» ˚୨•(=^●ω●^=)• ⊹ `Sub-bots` ⊹
+> ✐ Comandos para registrar tu propio bot.
+
+✧ `#autojoin` _[enable/disable]_
+> Unirse automáticamente a grupos enviados por el dueño del bot en privado.
+✧ `#botinfo` `#infobot`
+> Obtener informacion del bot
+✧ `#join` _[Invitacion]_
+> Unir al bot a un grupo
+✧ `#leave` `#salir`
+> Salir de un grupo
+✧ `#logout`
+> Cerrar sesion del bot
+✧ `#qr` `#code`
+> Crear un Sub-Bot con un codigo QR/Code
+✧ `#qrpremium` `#codepremium`
+> Crear un Bot Premium con un codigo QR/Code
+✧ `#reload`
+> Recargar la sesion del bot
+✧ `#setbanner` `#setmenubanner`
+> Cambiar el banner del menu
+✧ `#setbotcurrency` _[nombre]_
+> Cambiar la moneda del bot
+✧ `#setbotowner` _[nombre]_
+> Cambiar el dueño del bot
+✧ `#setname` `#setbotname` _[nombre corto] / [nombre largo]_
+> Cambiar el nombre del bot
+✧ `#setpfp` `#setimage`
+> Cambiar la imagen de perfil
+✧ `#setstatus` _[estado]_
+> Cambiar el estado del bot
+✧ `#setusername` _[nombre]_
+> Cambiar el nombre de usuario
+
+» ˚୨•(=^●ω●^=)• ⊹ `Útilidades` ⊹
+> ✐ Comandos de *Útilidades*
+
+✧ `#bots` `#sockets`
+> Ver el numero de bots activos.
+✧ `#del` `#delete` _{citar un mensaje}_
+> Eliminar un mensaje.
+✧ `#getpic` `#pfp` _[@usuario]_
+> Ver la foto de perfil de un usuario.
+✧ `#invite` _[Invitacion]_
+> Invitar al bot a un grupo.
+✧ `#menu` `#help` `#commands` `#comandos`
+> Ver el menú de comandos.
+✧ `#ping` `#p`
+> Medir tiempo de respuesta
+✧ `#status`
+> Ver estado del bot
+✧ `#suggest` `#add` `#addanime` `#report` _[Nombre]_
+> Solicitar un anime/serie/juego o personaje faltante
+✧ `#testwelcome` `#testgoodbye`
+> Prueba el mensaje de bienvenida/despedida.
+✧ `#toimage` `#toimg` _{citar sticker}_
+> Convertir un sticker/imagen de una vista a imagen.
+
+» ˚୨•(=^●ω●^=)• ⊹ `Administración` ⊹
+> ✐ Comandos para administradores de grupos.
+
+✧ `#alerts` `#alertas` _[enable/disable]_
+> Activar/desactivar las alertas de promote/demote
+✧ `#antilink` `#antienlace` _[enable/disable]_
+> Activar/desactivar el antienlace
+✧ `#bot` _[enable/disable]_
+> Activar/desactivar al bot
+✧ `#close`
+> Cerrar el grupo para que solo los administradores puedan enviar mensajes.
+✧ `#delwarn` _<@usuario> <número de advertencia>_
+> Eliminar una advertencia de un miembro del grupo.
+✧ `#demote` _<@usuario> | {mencion}_
+> Descender a un usuario de administrador.
+✧ `#economy` `#economia` _[enable/disable]_
+> Activar/desactivar los comandos de economía
+✧ `#gacha` _[enable/disable]_
+> Activar/desactivar los comandos de GACHA
+✧ `#goodbye` `#despedida` _[enable/disable]_
+> Activar/desactivar la despedida
+✧ `#groupimage` `#groupimg` `#gpimg` `#setgroupimage`
+> Cambiar la imagen del grupo.
+✧ `#kick` _<@usuario> | {mencion}_
+> Expulsar a un usuario del grupo.
+✧ `#msgcount` `#count` `#messages` `#mensajes` _<@usuario> <dias>_
+> Obtener el conteo de mensajes y comandos de un usuario.
+✧ `#nsfw` _[enable/disable]_
+> Activar/desactivar los comandos NSFW
+✧ `#onlyadmin` `#onlyadmins` _[enable/disable]_
+> Permitir que solo los administradores puedan utilizar los comandos.
+✧ `#open`
+> Abrir el grupo para que todos los usuarios puedan enviar mensajes.
+✧ `#promote` _<@usuario> | {mencion}_
+> Ascender a un usuario a administrador.
+✧ `#setgoodbye` _[texto]_
+> Establecer un mensaje de despedida personalizado.
+✧ `#setprimary` _[@bot]_
+> Establece un bot como primario del grupo.
+✧ `#setwarnlimit` _<número de advertencias>_
+> Establecer el límite de advertencias para un grupo.
+✧ `#setwelcome` _[texto]_
+> Establecer un mensaje de bienvenida personalizado.
+✧ `#tag` `#hidetag` `#tagsay` `#tagall` _[mensaje]_
+> Envía un mensaje mencionando a todos los usuarios del grupo.
+✧ `#topcount` `#topmessages` `#topmsgcount` `#topmensajes` _<dias>_
+> Obtener el top de usuarios con más mensajes en el grupo.
+✧ `#topinactive` `#topinactivos` `#topinactiveusers` _<dias>_
+> Obtener el top de usuarios más inactivos en el grupo.
+✧ `#warn` _<@usuario> <razón>_
+> Darle una advertencia a un miembro del grupo.
+✧ `#warns` _<@usuario>_
+> Ver todas las advertencias de un miembro del grupo.
+✧ `#welcome` `#bienvenida` _[enable/disable]_
+> Activar/desactivar la bienvenida
+
+» ˚୨•(=^●ω●^=)• ⊹ `NSFW` ⊹
+> ✐ Comandos *NSFW* (Contenido para adultos)
+
+✧ `#anal` _<mencion>_
+> Hacer un anal
+✧ `#ass` `#poto`
+✧ `#blowjob` `#mamada` `#bj` _<mencion>_
+> Dar una mamada
+✧ `#boobjob` _<mencion>_
+> Hacer una rusa
+✧ `#cum` _<mencion>_
+> Venirse en alguien
+✧ `#cummouth` _<mencion>_
+> Acabar en la boca de alguien
+✧ `#cumshot` _<mencion>_
+> Disparar semen
+✧ `#danbooru` `#dbooru` _[Tags]_
+> Buscar imagenes en Danbooru
+✧ `#e621` _[Tags]_
+> Buscar imagenes en e621.
+✧ `#fap` `#paja` _<mencion>_
+> Hacerse una paja
+✧ `#footjob` _<mencion>_
+> Hacer una paja con los pies
+✧ `#fuck` `#coger` _<mencion>_
+> Follarte a alguien
+✧ `#gelbooru` `#gbooru` `#booru` _[Tags]_
+> Buscar imagenes en Gelbooru
+✧ `#grabboobs` _<mencion>_
+> Agarrar tetas
+✧ `#grope` _<mencion>_
+> Manosear a alguien
+✧ `#handjob` _<mencion>_
+> Hacer una paja
+✧ `#hentai`
+✧ `#lickass` _<mencion>_
+> Lamer un culo
+✧ `#lickdick` _<mencion>_
+> Lamer un pene
+✧ `#lickpussy` _<mencion>_
+> Lamer un coño
+✧ `#loli`
+✧ `#nekomimi` `#neko`
+✧ `#pussy`
+✧ `#rule34` `#r34` _[Tags]_
+> Buscar imagenes en Rule34
+✧ `#sixnine` `#69` _<mencion>_
+> Haz un 69 con alguien
+✧ `#spank` `#nalgada` _<mencion>_
+> Dar una nalgada
+✧ `#suckboobs` _<mencion>_
+> Chupar tetas
+✧ `#undress` `#encuerar` _<mencion>_
+> Desnudar a alguien
+✧ `#yuri` `#tijeras` _<mencion>_
+> Hacer tijeras.
+
+» ˚୨•(=^●ω●^=)• ⊹ `Anime` ⊹
+> ✐ Comandos de reacciones de anime.
+
+✧ `#angry` `#enojado` _<mencion>_
+> Estar enojado
+✧ `#bath` _<mencion>_
+> Bañarse
+✧ `#bite` _<mencion>_
+> Muerde a alguien
+✧ `#bleh` _<mencion>_
+> Sacar la lengua
+✧ `#blush` _<mencion>_
+> Sonrojarte
+✧ `#bored` `#aburrido` _<mencion>_
+> Estar aburrido
+✧ `#call` _<mencion>_
+> Llamar a alguien
+✧ `#clap` `#aplaudir` _<mencion>_
+> Aplaudir
+✧ `#coffee` `#cafe` _<mencion>_
+> Tomar cafe
+✧ `#cold` _<mencion>_
+> Tener frío
+✧ `#cook` _<mencion>_
+> Cocinar algo delicioso
+✧ `#cry` _<mencion>_
+> Llorar por algo o alguien
+✧ `#cuddle` _<mencion>_
+> Acurrucarse
+✧ `#dance` _<mencion>_
+> Sacate los pasitos prohíbidos
+✧ `#dramatic` `#drama` _<mencion>_
+> Drama
+✧ `#draw` _<mencion>_
+> Dibujar
+✧ `#drunk` _<mencion>_
+> Estar borracho
+✧ `#eat` `#comer` _<mencion>_
+> Comer algo delicioso
+✧ `#facepalm` _<mencion>_
+> Darte una palmada en la cara
+✧ `#gaming` _<mencion>_
+> Jugar videojuegos
+✧ `#greet` `#hi` _<mencion>_
+> Saludar a alguien
+✧ `#happy` `#feliz` _<mencion>_
+> Salta de felicidad
+✧ `#heat` _<mencion>_
+> Tener calor
+✧ `#hug` _<mencion>_
+> Dar un abrazo
+✧ `#impregnate` `#preg` `#preñar` _<mencion>_
+> Embarazar a alguien
+✧ `#jump` _<mencion>_
+> Saltar
+✧ `#kill` _<mencion>_
+> Toma tu arma y mata a alguien
+✧ `#kiss` `#muak` _<mencion>_
+> Dar un beso
+✧ `#kisscheek` `#beso` _<mencion>_
+> Beso en la mejilla
+✧ `#laugh` _<mencion>_
+> Reírte de algo o alguien
+✧ `#lewd` _<mencion>_
+> Hacer algo lascivo
+✧ `#lick` _<mencion>_
+> Lamer a alguien
+✧ `#love` `#amor` _<mencion>_
+> Sentirse enamorado
+✧ `#nope` _<mencion>_
+> Negarse a hacer algo
+✧ `#pat` _<mencion>_
+> Acaricia a alguien
+✧ `#poke` _<mencion>_
+> Picar a alguien
+✧ `#pout` _<mencion>_
+> Hacer pucheros
+✧ `#psycho` _<mencion>_
+> Hacerse el psicópata
+✧ `#punch` _<mencion>_
+> Dar un puñetazo
+✧ `#push` _<mencion>_
+> Empujar a alguien
+✧ `#run` _<mencion>_
+> Correr
+✧ `#sad` `#triste` _<mencion>_
+> Expresar tristeza
+✧ `#scared` _<mencion>_
+> Estar asustado
+✧ `#scream` _<mencion>_
+> Gritar
+✧ `#seduce` _<mencion>_
+> Seducir a alguien
+✧ `#shy` `#timido` _<mencion>_
+> Sentir timidez
+✧ `#sing` _<mencion>_
+> Cantar
+✧ `#slap` _<mencion>_
+> Dar una bofetada
+✧ `#sleep` _<mencion>_
+> Tumbarte a dormir
+✧ `#smoke` _<mencion>_
+> Fumar
+✧ `#spit` `#escupir` _<mencion>_
+> Escupir
+✧ `#step` `#pisar` _<mencion>_
+> Pisar a alguien
+✧ `#think` _<mencion>_
+> Pensar en algo
+✧ `#tickle` _<mencion>_
+> Hacer cosquillas
+✧ `#walk` _<mencion>_
+> Caminar
