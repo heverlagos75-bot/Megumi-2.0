@@ -627,3 +627,42 @@ nano package.json
     "qrcode-terminal": "latest"
   }
 }
+package.json
+nano package.json
+{
+  "name": "megumi-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
+index.jsconst { default: makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
+const pino = require('pino');
+
+async function startBot() {
+    console.log("Iniciando Megumi-2.0...");
+    const { state, saveCreds } = await useMultiFileAuthState('auth_info');
+    
+    const sock = makeWASocket({
+        logger: pino({ level: 'silent' }),
+        auth: state,
+        printQRInTerminal: true
+    });
+
+    sock.ev.on('creds.update', saveCreds);
+    sock.ev.on('connection.update', (update) => {
+        const { connection } = update;
+        if (connection === 'open') {
+            console.log('¡Conectado exitosamente!');
+        }
+    });
+}
+
+startBot();
+nano index.js
