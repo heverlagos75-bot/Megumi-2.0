@@ -734,3 +734,23 @@ auth/
 # Editor
 .vscode/
 .idea/
+{
+  "name": "megumi-2.0",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "tu-nombre",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
