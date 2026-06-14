@@ -718,3 +718,19 @@ nano package.json{
     "qrcode-terminal": "latest"
   }
 }
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
+
+# Environment / secrets
+.env
+auth_info_baileys/
+auth_info/
+auth/
+
+# Editor
+.vscode/
+.idea/
