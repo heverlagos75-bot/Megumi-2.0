@@ -754,3 +754,36 @@ auth/
     "qrcode-terminal": "latest"
   }
 }
+cd ~/Megumi-2.0
+package-lock.json
+package.json
+package.jsonrm package.json package-lock.json
+```json
+    {
+      "name": "megumi-2.0",
+      "version": "1.0.0",
+      "main": "index.js",
+      "scripts": {
+        "start": "node index.js"
+      },
+      "dependencies": {
+        "@whiskeysockets/baileys": "latest",
+        "pino": "latest",
+        "qrcode-terminal": "latest"
+      }
+    }
+```javascript
+    const { default: makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
+    const pino = require('pino');
+
+    async function start() {
+        console.log("Iniciando...");
+        const { state, saveCreds } = await useMultiFileAuthState('auth');
+        const sock = makeWASocket({ 
+            logger: pino({ level: 'silent' }), 
+            auth: state, 
+            printQRInTerminal: true 
+        });
+        sock.ev.on('creds.update', saveCreds);
+    }
+    start(); carl+0 carl+x
