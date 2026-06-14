@@ -612,3 +612,18 @@ package.json{
 "qrcode-terminal": "latest"
 }
 }
+Ctrl
+nano package.json
+{
+  "name": "megumi-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
