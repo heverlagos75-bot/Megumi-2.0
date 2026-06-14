@@ -787,3 +787,4 @@ package.jsonrm package.json package-lock.json
         sock.ev.on('creds.update', saveCreds);
     }
     start(); carl+0 carl+x
+cd Megumi-2.0
