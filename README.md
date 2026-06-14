@@ -666,3 +666,39 @@ async function startBot() {
 
 startBot();
 nano index.js
+const { default: makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
+const pino = require('pino');
+
+async function iniciar() {
+    console.log("Iniciando...");
+    const { state, saveCreds } = await useMultiFileAuthState('auth');
+    const sock = makeWASocket({ 
+        logger: pino({ level: 'silent' }), 
+        auth: state,
+        printQRInTerminal: true 
+    });
+    sock.ev.on('creds.update', saveCreds);
+}
+iniciar();
+
+nano index.js
+
+index.js
+{
+  "name": "megumi-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
+
+nano package.json
+
+package.json
+o
